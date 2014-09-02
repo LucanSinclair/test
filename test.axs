@@ -16,6 +16,7 @@ PROGRAM_NAME='test'
 DEFINE_DEVICE
 
 dvTp	=	10001:1:0
+dvTp2	=	10002:1:0
 
 (***********************************************************)
 (*               CONSTANT DEFINITIONS GO BELOW             *)
